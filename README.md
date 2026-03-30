@@ -157,8 +157,5 @@ This project presents a **scalable and efficient deep learning framework for aut
 ---
 
 ## 📄 Publication
-Co Authored, ‘Deep Learning MRI Analysis for Automated Knee Injury Diagnosis’; published in i-manager’s Journal on Computer
-Science(JCOM) for July - September 2023 issue (Volume No.11, Issue No.2).
-Link:https://imanagerpublications.com/viewarticles/21/1421/JCOMVol11Iss2”.
 You can access the full paper here:
-👉 <ADD_YOUR_PUBLICATION_LINK_HERE>
+👉 "https://imanagerpublications.com/viewarticles/21/1421/JCOMVol11Iss2".
